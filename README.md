@@ -18,3 +18,11 @@ Luego se debe registrar datos en el grafo (puede ser dirigido o no dirigido), lu
 **Nota** 
 
 Prohibida usar cualquier clase de recolección de datos implementada en java (ejemplo: Arreglos de java, etc).
+
+
+
+**Video Explicativo**
+
+https://github.com/user-attachments/assets/85b02d3d-f641-4b56-b55f-2ecb0db8a820
+
+
